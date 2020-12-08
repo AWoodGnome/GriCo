@@ -1,0 +1,2 @@
+# GriCo
+Grid computing playground
